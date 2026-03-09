@@ -1,4 +1,4 @@
-name: Release-blyaaa
+name: Release
 on:
   push:
     tags:
