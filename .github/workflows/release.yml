@@ -12,7 +12,7 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - platform: 'windows-latest'
+          - platform: 'windows-latest' 
             args: ''
 
     runs-on: ${{ matrix.platform }}
